@@ -1,0 +1,4 @@
+Model,Accuracy,Balanced Acc,AUC,Precision,Recall,Brier
+OHLCV-only,0.514,0.515,0.532,0.534,0.494,0.260
+OHLCV + Sentiment,0.542,0.542,0.555,0.563,0.521,0.253
+OHLCV + Sentiment (cal.),0.542,0.542,0.555,0.563,0.521,0.248
